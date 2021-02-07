@@ -4,11 +4,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-  right: 
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<magpiedin@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/magpiedin/
 output:
   html_document:
-    theme: Readable
+    theme: darkly
