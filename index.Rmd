@@ -1,0 +1,15 @@
+---
+  title: "Website!"
+---
+
+  One thing.
+
+<img src="files/paranoid_mind.jpg" style="width:50%">
+
+  And another.
+
+<img src="files/paranoid_spirit.jpg" style="width:50%">
+
+  They are things!
+
+<img src="files/whattheduck.png" style="width:50%">
