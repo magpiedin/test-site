@@ -1,5 +1,5 @@
 ---
-  title: "Website!"
+  title: "Things"
 ---
 
   One thing.
@@ -10,6 +10,6 @@
 
 <img src="files/paranoid_spirit.jpg" style="width:50%">
 
-  They are things!
+  What things.
 
 <img src="files/whattheduck.png" style="width:50%">
