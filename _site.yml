@@ -1,4 +1,5 @@
 name: "jekyll-test-site"
+output_dir: "."
 navbar:
   title: "Jekyll & Hyde site"
   left:
